@@ -103,4 +103,4 @@ BOARD_SEPOLICY_UNION += \
         tee.te \
         thermald.te \
         ueventd.te \
-        wpa_supplicant.te
+        wpa_supplicant.te 
